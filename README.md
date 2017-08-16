@@ -1,4 +1,4 @@
-<img src="" width="800" alt="Combined Image" />
+<img src="cows.png" width="800" alt="Combined Image" />
 
 **Recognising Traffic Signs**
 
