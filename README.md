@@ -53,7 +53,7 @@ and check that the installation worked:
 `>>>`
 (Ctrl-d to exit Python)
 
-**Download the Data Set**: follow instructions in input/download_data.md
+**Step 4:** Download the Data Set (follow instructions in input/download_data.md)
 
 **Step 5:** Run
 
