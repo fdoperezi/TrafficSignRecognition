@@ -53,6 +53,8 @@ and check that the installation worked:
 `>>>`
 (Ctrl-d to exit Python)
 
-**Step 4:** Run
+**Download the Data Set**: follow instructions in input/download_data.md
+
+**Step 5:** Run
 
 Run `graphic_test_from_testset.py` in order to classify some exemplary traffic signs and see how the algorithm works.
