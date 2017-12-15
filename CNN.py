@@ -7,7 +7,7 @@ from keras.layers.normalization import BatchNormalization
 from keras.models import Sequential, model_from_json
 from keras.regularizers import l2
 from keras.utils import np_utils
-from spacialTransformer import SpatialTransformer
+from spatialTransformer import SpatialTransformer
 
 
 
